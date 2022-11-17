@@ -1,0 +1,9 @@
+C:\Users\guilh\OneDrive\Documents\ADS\3_Semestre\PIM VIII\Noixae\PIMVSBD\PIMVIII\Controllers\bin\Debug\Controllers.dll
+C:\Users\guilh\OneDrive\Documents\ADS\3_Semestre\PIM VIII\Noixae\PIMVSBD\PIMVIII\Controllers\bin\Debug\Controllers.pdb
+C:\Users\guilh\OneDrive\Documents\ADS\3_Semestre\PIM VIII\Noixae\PIMVSBD\PIMVIII\Controllers\bin\Debug\Model.dll
+C:\Users\guilh\OneDrive\Documents\ADS\3_Semestre\PIM VIII\Noixae\PIMVSBD\PIMVIII\Controllers\bin\Debug\Model.pdb
+C:\Users\guilh\OneDrive\Documents\ADS\3_Semestre\PIM VIII\Noixae\PIMVSBD\PIMVIII\Controllers\obj\Debug\Controller.csproj.AssemblyReference.cache
+C:\Users\guilh\OneDrive\Documents\ADS\3_Semestre\PIM VIII\Noixae\PIMVSBD\PIMVIII\Controllers\obj\Debug\Controller.csproj.CoreCompileInputs.cache
+C:\Users\guilh\OneDrive\Documents\ADS\3_Semestre\PIM VIII\Noixae\PIMVSBD\PIMVIII\Controllers\obj\Debug\Controller.csproj.CopyComplete
+C:\Users\guilh\OneDrive\Documents\ADS\3_Semestre\PIM VIII\Noixae\PIMVSBD\PIMVIII\Controllers\obj\Debug\Controllers.dll
+C:\Users\guilh\OneDrive\Documents\ADS\3_Semestre\PIM VIII\Noixae\PIMVSBD\PIMVIII\Controllers\obj\Debug\Controllers.pdb
