@@ -10,7 +10,7 @@ namespace Controller
     public class PessoaDAO
     {
         //alocando string de conexao com o bd
-        SqlConnection conexao = new SqlConnection(@"Data Source=GUEGONHO\SQLEXPRESS;Initial Catalog = pim_viii; Integrated Security = True");
+        SqlConnection conexao = new SqlConnection(@"AQUI FICA A STRING DE CONEXÃO");
 
         public bool cadastrar(Pessoa p)
         {
